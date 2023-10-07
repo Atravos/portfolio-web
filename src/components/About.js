@@ -20,8 +20,8 @@ class About extends React.Component {
     const one = (
       <p>
         I am currently a <b>Software Development Engineer</b> at
-        <a href="https://www.aboutamazon.com/"> Amazon</a>, working in the AWS
-        sector under team Route53. At the same time, I am undertaking a
+        <a href="https://www.pssi.com/solution/marc/"> PSSI</a>, working in the Azure
+        sector under team Marc. At the same time, I am undertaking a
         part-time <b> Master's of Science</b> in <b>Software Engineering </b>at{" "}
         <a href="https://www.ox.ac.uk/about">University of Oxford</a>.
       </p>
@@ -29,14 +29,14 @@ class About extends React.Component {
     const two = (
       <p>
         Outside of work, I'm interested in following the developments of
-        science. I also play a lot of video games. And make TikToks.
+        science. I also play a lot of video games. And make content.
       </p>
     );
     const three = (
       <p>
         <b>Want to chat?</b> Shoot me a message at{" "}
-        <a href="mailto:gazi.jarin@mail.utoronto.ca">
-          gazi.jarin@mail.utoronto.ca
+        <a href="mailto:reese.h.walker@gmail.com">
+          reese.h.walker@gmail.com
         </a>{" "}
         and let's talk.
       </p>
