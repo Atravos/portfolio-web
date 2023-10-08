@@ -29,7 +29,7 @@ class About extends React.Component {
     const two = (
       <p>
         Outside of work, I'm interested in following the developments of
-        science. I also play a lot of video games. And make content.
+        science. I also play a lot of video games. And love fallout.
       </p>
     );
     const three = (
@@ -45,7 +45,7 @@ class About extends React.Component {
 
     const tech_stack = [
       "Javascript ES6+",
-      "Python",
+      "C#",
       "React.js",
       "Java",
       "Node.js",
