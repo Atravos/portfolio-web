@@ -23,7 +23,7 @@ class About extends React.Component {
         <a href="https://www.pssi.com/solution/marc/"> PSSI</a>, working in the Azure
         sector under team Marc. At the same time, I am undertaking a
         part-time <b> Master's of Science</b> in <b>Software Engineering </b>at{" "}
-        <a href="https://www.ox.ac.uk/about">University of Oxford</a>.
+        <a href="https://www.pittstate.edu/index.html">University of Pitt State</a>.
       </p>
     );
     const two = (
