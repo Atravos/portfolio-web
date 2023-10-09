@@ -92,7 +92,7 @@ const JobList = () => {
       ]
     },
     Watco: {
-      jobTitle: "Software Engineering Intern @",
+      jobTitle: "Software Development Engineer @",
       duration: "MAY 2022 - MAY 2023",
       desc: [
         "Developed a responsive React web page (the new Story Details) from scratch, both on client and server side, for an app with massive scale (2 billion daily requests).",
@@ -101,7 +101,7 @@ const JobList = () => {
       ]
     },
     "University of Toronto": {
-      jobTitle: "Research Engineer @",
+      jobTitle: "Software Engineer Intern @",
       duration: "MAY 2021 - SEPT 2021",
       desc: [
         "Developing and researching an NLP-based framework using state-of-the-art tools like Spacy and Stanza to facilitate the derivation of requirements from health data by leveraging syntactic dependencies, entity-recognition and rule-based match-making.",
@@ -124,7 +124,7 @@ const JobList = () => {
     //   ]
     // },
     "Orange Gate": {
-      jobTitle: "Software Engineering Intern @",
+      jobTitle: "IT Support Specialist @",
       duration: "MAY 2019 - AUG 2019",
       desc: [
         "Developed a Node.js smart home system through Facebook’s Messenger integrated with Bocco sen- sors and other smart devices (Nest camera, TPLink smart plugs) to derive conclusions about the current state of the home",
