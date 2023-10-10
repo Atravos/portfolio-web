@@ -100,12 +100,13 @@ const JobList = () => {
         "Collaborated with senior engineers and product management following best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations."
       ]
     },
-    "University of Toronto": {
+    "Watco Companies LLC": {
       jobTitle: "Software Engineer Intern @",
-      duration: "MAY 2021 - SEPT 2021",
+      duration: "JUN 2021 - MAY 2022",
       desc: [
-        "Developing and researching an NLP-based framework using state-of-the-art tools like Spacy and Stanza to facilitate the derivation of requirements from health data by leveraging syntactic dependencies, entity-recognition and rule-based match-making.",
-        " Application selected for DCS Research Award ($4,000) as part of the ”Visualizing Privacy Analysis Results” project led by Professor Marsha Chechik."
+        "Set up front to back-end software for imaging and automating the setup and initialization of machine.",
+        "Collaborated with senior developers on creating and initializing apps and software for consumer usage.",
+        "Evaluated and utilized over 70+ websites for security prevention and data recognition for company website."
       ]
     },
     // Centivizer: {
@@ -123,13 +124,13 @@ const JobList = () => {
     //     "Co-developed homework management software integrable with Google Classroom by utilizing the Python’s Flask micro-framework for the back-end API and Vue.js for the front-end UI, in order to translate business requirements into a functional full-stack application."
     //   ]
     // },
-    "Orange Gate": {
+    "Neosho College": {
       jobTitle: "IT Support Specialist @",
-      duration: "MAY 2019 - AUG 2019",
+      duration: "APR 2019 - AUG 2020",
       desc: [
-        "Developed a Node.js smart home system through Facebook’s Messenger integrated with Bocco sen- sors and other smart devices (Nest camera, TPLink smart plugs) to derive conclusions about the current state of the home",
-        "Identified continuous improvements in data quality, design reports and coding activities, presenting results and findings to internal business stakeholders.",
-        "Relevant technologies/tools used: DialogFlow, Vision, AutoML, Messenger Bot API, MongoDB."
+        "Processed impending orders with a 3-person team, fixing over 800 yearly PC Machines.",
+        "Provided adequate customer service towards customers in a timely manner and with utmost professionalism.",
+        "Imaged and provisioned machines through autopilot, leveraging PowerShell."
       ]
     }
   };
