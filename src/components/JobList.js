@@ -86,17 +86,17 @@ const JobList = () => {
       jobTitle: "Software Development Engineer @",
       duration: "JUN 2023 - PRESENT",
       desc: [
-        "Collaborate with experienced cross-disciplinary Amazonians to conceive, design, and bring innovative products and services to market.",
+        "Collaborate with experienced cross-disciplinary PSSI employees to conceive, design, and bring innovative products and services to market.",
         "Design and build innovative technologies in a large distributed computing environment and help lead fundamental changes in the industry.",
-        "Build distributed storage, index, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use."
+        "Build distributed pipelines, automated tests, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use."
       ]
     },
     Watco: {
       jobTitle: "Software Development Engineer @",
       duration: "MAY 2022 - MAY 2023",
       desc: [
-        "Developed a responsive React web page (the new Story Details) from scratch, both on client and server side, for an app with massive scale (2 billion daily requests).",
-        "Iteratively built web experiences for 80 million users across high-traffic pages.",
+        "Developed a responsive React web page, both on client and server side, for an app with massive scale (100 million daily requests).",
+        "Iteratively built web experiences for 10 thousand users across high-traffic pages.",
         "Collaborated with senior engineers and product management following best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations."
       ]
     },

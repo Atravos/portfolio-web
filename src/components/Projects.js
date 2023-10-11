@@ -51,14 +51,14 @@ class Projects extends React.Component {
         open: "https://atravos.com",
         image: "/assets/TheManwithNoName.jpg"
       },
-      CalorieCalculator: {
-        title: "Calorie Calculator",
+      Portfolio: {
+        title: "portfolio.js",
         desc:
-          "Indulge in sweet treats without the guilt! Doughnut Daily is not your ordinary calorie calculator.",
+          "A small JS library that helps with clear and succinct data presentation.",
         techStack: "NODE.JS (EXPRESS.JS)",
-        link: "https://github.com/Atravos/donutCalculator",
-        open: "https://atravos.com",
-        image: "/assets/DonutCalculator.jpg"
+        link: "https://github.com/gazijarin/Portfolio.js",
+        open: "https://afternoon-ocean-92382.herokuapp.com/",
+        image: "/assets/DonutCalculator.png"
       }
     };
     const projects = {
