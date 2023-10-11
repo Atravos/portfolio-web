@@ -31,7 +31,7 @@ class Projects extends React.Component {
         techStack: "C# (UNITY)",
         link: "https://github.com/Atravos/WestPunk",
         open: "https://atravos.com",
-        image: "/assets/nomansland.png"
+        image: "/assets/WildWest.jpg"
       },
       Havoc: {
         title: "Desert Drifters",
@@ -40,7 +40,7 @@ class Projects extends React.Component {
         techStack: "JAVASCRIPT (THREE.JS)",
         link: "https://github.com/Atravos/DesertDrifters",
         open: "https://gazijarin.github.io/Truth/",
-        image: "/assets/truth.png"
+        image: "/assets/DesertDrifters.jpg"
       },
       "The Man with No Name": {
         title: "The Man with No Name",
