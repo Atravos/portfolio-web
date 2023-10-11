@@ -52,54 +52,54 @@ class Projects extends React.Component {
         image: "/assets/TheManwithNoName.jpg"
       },
       Portfolio: {
-        title: "portfolio.js",
+        title: "Calorie Calculator",
         desc:
-          "A small JS library that helps with clear and succinct data presentation.",
+          "Indulge in sweet treats without the guilt! Doughnut Daily is not your ordinary calorie calculator. ",
         techStack: "NODE.JS (EXPRESS.JS)",
-        link: "https://github.com/gazijarin/Portfolio.js",
-        open: "https://afternoon-ocean-92382.herokuapp.com/",
+        link: "https://github.com/Atravos/donutCalculator",
+        open: "https://atravos.com",
         image: "/assets/Donuts.jpg"
       }
     };
     const projects = {
       "Advanced Mathematical Calculator": {
         desc:
-          "An application created for Toronto District School Board, with a Flask back-end and a Vue front-end.",
+          "Unlock the secrets of numbers with an intuitive yet sophisticated calculator.",
         techStack: "Python (Flask), Vue.js, Bootstrap, SQL",
-        link: "https://github.com/Atravos/Lab4Assignments",
-        open: "https://tdsb-app.herokuapp.com/"
+        link: "https://atravos.com",
+        open: "https://github.com/Atravos/Lab4Assignments"
       },
       "Jarvis A.I.": {
         desc:
-          "A self-learning A.I. that learns to traverse through a complex maze using the genetic algorithm.",
+          "Meet Jarvis, your personalized AI assistant.",
         techStack: "Javascript, HTML / CSS",
-        link: "https://github.com/Atravos/Lab4Assignments",
-        open: "https://gazijarin.github.io/AdamAI/"
+        link: "https://atravos.com",
+        open: "https://github.com/Atravos/Lab4Assignments"
       },
       "Memory Allocation Logger and Tester": {
         desc:
-          "A system that establishes an ORM connection to a Prisma client in order to communicate logs from microservices.",
+          "Ensure your applications run smoothly with a state-of-the-art memory management tool. ",
         techStack: "Node.js (Express.js), React.js, PostgreSQL",
         link:
           "https://github.com/Atravos/Lab4Assignments"
       },
       "Odin Discord Bot": {
         desc:
-          "A Telegram bot that helps you excel on your daily tasks through Node NLP.",
+          "Elevate your Discord experience with Odin, a versatile bot offering moderation tools, entertainment commands, and integration capabilities.",
         techStack: "Javascript, Node.js, Natural NLP, Discord API",
         link: "https://github.com/Atravos/Lab4Assignments",
         open: ""
       },
       "Game Centre": {
         desc:
-          "An Android app consisting of three board games, including multiplayer, autosave, user authentication, etc.",
+          "Unwind with a collection of curated games ranging from brain-teasing puzzles to adrenaline-packed action adventures.",
         techStack: "Java, Android Studio",
         link: "https://github.com/Atravos/Lab4Assignments",
         open: ""
       },
       "To-Do Notetaking App": {
         desc:
-          "Two-player, zero-sum game with a strategic Minimax artificial intelligence.",
+          "Master the art of marketing with a comprehensive organizer designed for entrepreneurs and marketing professionals",
         techStack: "Python",
         link: "https://github.com/Atravos/Lab4Assignments",
         open: ""
