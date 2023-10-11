@@ -58,50 +58,50 @@ class Projects extends React.Component {
         techStack: "NODE.JS (EXPRESS.JS)",
         link: "https://github.com/Atravos/donutCalculator",
         open: "https://atravos.com",
-        image: "/assets/CalorieCounter.jpg"
+        image: "/assets/DonutCalculator.jpg"
       }
     };
     const projects = {
-      "TDSB Homework Management Interface": {
+      "Advanced Mathematical Calculator": {
         desc:
           "An application created for Toronto District School Board, with a Flask back-end and a Vue front-end.",
         techStack: "Python (Flask), Vue.js, Bootstrap, SQL",
-        link: "https://github.com/gazijarin/TDSBHomeworkManagement",
+        link: "https://github.com/Atravos/Lab4Assignments",
         open: "https://tdsb-app.herokuapp.com/"
       },
-      "Adam A.I.": {
+      "Jarvis A.I.": {
         desc:
           "A self-learning A.I. that learns to traverse through a complex maze using the genetic algorithm.",
         techStack: "Javascript, HTML / CSS",
-        link: "https://github.com/gazijarin/adamai",
+        link: "https://github.com/Atravos/Lab4Assignments",
         open: "https://gazijarin.github.io/AdamAI/"
       },
-      "Distributed Logging and Monitoring System": {
+      "Memory Allocation Logger and Tester": {
         desc:
           "A system that establishes an ORM connection to a Prisma client in order to communicate logs from microservices.",
         techStack: "Node.js (Express.js), React.js, PostgreSQL",
         link:
-          "https://github.com/gazijarin/Distributed-Logging-and-Monitoring-System"
+          "https://github.com/Atravos/Lab4Assignments"
       },
-      "Odin Bot": {
+      "Odin Discord Bot": {
         desc:
           "A Telegram bot that helps you excel on your daily tasks through Node NLP.",
-        techStack: "Javascript, Node.js, Natural NLP, Telegram API",
-        link: "https://github.com/gazijarin/OdinBot",
+        techStack: "Javascript, Node.js, Natural NLP, Discord API",
+        link: "https://github.com/Atravos/Lab4Assignments",
         open: ""
       },
       "Game Centre": {
         desc:
           "An Android app consisting of three board games, including multiplayer, autosave, user authentication, etc.",
         techStack: "Java, Android Studio",
-        link: "https://github.com/gazijarin/gamecentre",
+        link: "https://github.com/Atravos/Lab4Assignments",
         open: ""
       },
-      "Minimax Stonehenge": {
+      "To-Do Notetaking App": {
         desc:
           "Two-player, zero-sum game with a strategic Minimax artificial intelligence.",
         techStack: "Python",
-        link: "https://github.com/gazijarin/stonehenge",
+        link: "https://github.com/Atravos/Lab4Assignments",
         open: ""
       }
     };
