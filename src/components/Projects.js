@@ -24,39 +24,39 @@ class Projects extends React.Component {
   }
   render() {
     const spotlightProjects = {
-      "No Man's Land": {
-        title: "no man's land",
+      "West Punk": {
+        title: "West Punk",
         desc:
-          "A third-person survival-mode game where you battle against time and space to return to Earth.",
+          "Journey to a rugged frontier town nestled amidst the arid canyons, where danger lurks in every shadow and trust is a scarce commodity.",
         techStack: "C# (UNITY)",
-        link: "https://github.com/slakh96/no-mans-land",
-        open: "https://gazijarin.itch.io/no-mans-land",
+        link: "https://github.com/Atravos/WestPunk",
+        open: "https://atravos.com",
         image: "/assets/nomansland.png"
       },
-      Truth: {
-        title: "truth",
+      Havoc: {
+        title: "Desert Drifters",
         desc:
-          "A three.js simulation of the planet system revolving around a monolith.",
+          "In the vast expanse of the sun-drenched desert, chaos reigns supreme.",
         techStack: "JAVASCRIPT (THREE.JS)",
-        link: "https://github.com/gazijarin/truth",
+        link: "https://github.com/Atravos/DesertDrifters",
         open: "https://gazijarin.github.io/Truth/",
         image: "/assets/truth.png"
       },
-      "Tall Tales": {
-        title: "tall tales",
+      "The Man with No Name": {
+        title: "The Man with No Name",
         desc:
-          "A multi-player story-telling web game for 3-5 players. Its usage of sockets to allow for concurrent gameplay, connecting friends across the internet.",
+          "The Man with No Name plunges players into a rich text-based narrative full of intrigue, danger, and unexpected twists.",
         techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
-        link: "https://github.com/gazijarin/TallTales",
+        link: "https://github.com/Atravos/TheManwithNoName",
         open: "https://talltales.herokuapp.com/",
         image: "/assets/talltales.png"
       },
-      Portfolio: {
-        title: "portfolio.js",
+      CalorieCalculator: {
+        title: "Calorie Calculator",
         desc:
-          "A small JS library that helps with clear and succinct data presentation.",
+          "Indulge in sweet treats without the guilt! Doughnut Daily is not your ordinary calorie calculator.",
         techStack: "NODE.JS (EXPRESS.JS)",
-        link: "https://github.com/gazijarin/Portfolio.js",
+        link: "https://github.com/Atravos/donutCalculator",
         open: "https://afternoon-ocean-92382.herokuapp.com/",
         image: "/assets/portfolio.png"
       }
