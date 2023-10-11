@@ -58,7 +58,7 @@ class Projects extends React.Component {
         techStack: "NODE.JS (EXPRESS.JS)",
         link: "https://github.com/gazijarin/Portfolio.js",
         open: "https://afternoon-ocean-92382.herokuapp.com/",
-        image: "/assets/DonutCalculator.jpg"
+        image: "/assets/Donut.jpg"
       }
     };
     const projects = {
