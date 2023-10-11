@@ -21,7 +21,7 @@ class About extends React.Component {
       <p>
         I am currently a <b>Software Development Engineer</b> at
         <a href="https://www.pssi.com/solution/marc/"> PSSI</a>, working in the DevOps
-        sector under team Marc. At the same time, I am undertaking a
+        sector under team MARC. At the same time, I am undertaking a
         part-time <b> Master's of Science</b> in <b>Software Engineering </b>at{" "}
         <a href="https://www.pittstate.edu/index.html">University of Pitt State</a>.
       </p>
@@ -29,7 +29,7 @@ class About extends React.Component {
     const two = (
       <p>
         Outside of work, I'm interested in following the developments of
-        science. I also play a lot of video games. And love fallout.
+        science. I also play a lot of video games. And love movies.
       </p>
     );
     const three = (
