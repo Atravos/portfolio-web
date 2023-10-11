@@ -39,7 +39,7 @@ class Projects extends React.Component {
           "In the vast expanse of the sun-drenched desert, chaos reigns supreme.",
         techStack: "JAVASCRIPT (THREE.JS)",
         link: "https://github.com/Atravos/DesertDrifters",
-        open: "https://gazijarin.github.io/Truth/",
+        open: "https://atravos.com",
         image: "/assets/DesertDrifters.jpg"
       },
       "The Man with No Name": {
@@ -48,8 +48,8 @@ class Projects extends React.Component {
           "The Man with No Name plunges players into a rich text-based narrative full of intrigue, danger, and unexpected twists.",
         techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
         link: "https://github.com/Atravos/TheManwithNoName",
-        open: "https://talltales.herokuapp.com/",
-        image: "/assets/talltales.png"
+        open: "https://atravos.com",
+        image: "/assets/TheManwithNoName.jpg"
       },
       CalorieCalculator: {
         title: "Calorie Calculator",
@@ -57,8 +57,8 @@ class Projects extends React.Component {
           "Indulge in sweet treats without the guilt! Doughnut Daily is not your ordinary calorie calculator.",
         techStack: "NODE.JS (EXPRESS.JS)",
         link: "https://github.com/Atravos/donutCalculator",
-        open: "https://afternoon-ocean-92382.herokuapp.com/",
-        image: "/assets/portfolio.png"
+        open: "https://atravos.com",
+        image: "/assets/CalorieCounter.jpg"
       }
     };
     const projects = {
