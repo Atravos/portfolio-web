@@ -29,8 +29,8 @@ class Projects extends React.Component {
         desc:
           "Journey to a rugged frontier town nestled amidst the arid canyons, where danger lurks in every shadow and trust is a scarce commodity.",
         techStack: "C# (UNITY)",
-        link: "https://github.com/Atravos/WestPunk",
-        open: "https://atravos.com",
+        link: "https://github.com/Atravos/Lab4Assignments",
+        open: "https://github.com/Atravos/Lab4Assignments",
         image: "/assets/WildWest.jpg"
       },
       Havoc: {
@@ -39,7 +39,7 @@ class Projects extends React.Component {
           "In the vast expanse of the sun-drenched desert, chaos reigns supreme.",
         techStack: "JAVASCRIPT (THREE.JS)",
         link: "https://github.com/Atravos/DesertDrifters",
-        open: "https://atravos.com",
+        open: "https://github.com/Atravos/Lab4Assignments",
         image: "/assets/DesertDrifters.jpg"
       },
       "The Man with No Name": {
@@ -48,7 +48,7 @@ class Projects extends React.Component {
           "The Man with No Name plunges players into a rich text-based narrative full of intrigue, danger, and unexpected twists.",
         techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
         link: "https://github.com/Atravos/TheManwithNoName",
-        open: "https://atravos.com",
+        open: "https://github.com/Atravos/Lab4Assignments",
         image: "/assets/TheManwithNoName.jpg"
       },
       Portfolio: {
@@ -57,7 +57,7 @@ class Projects extends React.Component {
           "Indulge in sweet treats without the guilt! Doughnut Daily is not your ordinary calorie calculator. ",
         techStack: "NODE.JS (EXPRESS.JS)",
         link: "https://github.com/Atravos/donutCalculator",
-        open: "https://atravos.com",
+        open: "https://github.com/Atravos/Lab4Assignments",
         image: "/assets/donuts.jpg"
       }
     };
@@ -66,14 +66,14 @@ class Projects extends React.Component {
         desc:
           "Unlock the secrets of numbers with an intuitive yet sophisticated calculator.",
         techStack: "Python (Flask), Vue.js, Bootstrap, SQL",
-        link: "https://atravos.com",
+        link: "https://github.com/Atravos/Lab4Assignments",
         open: "https://github.com/Atravos/Lab4Assignments"
       },
       "Jarvis A.I.": {
         desc:
           "Meet Jarvis, your personalized AI assistant.",
         techStack: "Javascript, HTML / CSS",
-        link: "https://atravos.com",
+        link: "https://github.com/Atravos/Lab4Assignments",
         open: "https://github.com/Atravos/Lab4Assignments"
       },
       "Memory Allocation Logger and Tester": {
