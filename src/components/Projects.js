@@ -37,7 +37,7 @@ class Projects extends React.Component {
         title: "Desert Drifters",
         desc:
           "In the vast expanse of the sun-drenched desert, chaos reigns supreme.",
-        techStack: "JAVASCRIPT (THREE.JS)",
+        techStack: "C# (UNITY), JAVASCRIPT (THREE.JS)",
         link: "https://github.com/Atravos/DesertDrifters",
         open: "https://github.com/Atravos/Lab4Assignments",
         image: "/assets/DesertDrifters.jpg"
@@ -55,7 +55,7 @@ class Projects extends React.Component {
         title: "Calorie Calculator",
         desc:
           "Indulge in sweet treats without the guilt! Doughnut Daily is not your ordinary calorie calculator. ",
-        techStack: "NODE.JS (EXPRESS.JS)",
+        techStack: "Java, NODE.JS (EXPRESS.JS)",
         link: "https://github.com/Atravos/donutCalculator",
         open: "https://github.com/Atravos/Lab4Assignments",
         image: "/assets/donuts.jpg"
