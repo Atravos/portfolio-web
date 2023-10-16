@@ -100,7 +100,7 @@ class Projects extends React.Component {
       "To-Do Notetaking App": {
         desc:
           "Master the art of marketing with a comprehensive organizer designed for entrepreneurs and marketing professionals",
-        techStack: "Python",
+        techStack: "Python, Node.js, MONGODB",
         link: "https://github.com/Atravos/Lab4Assignments",
         open: ""
       }
