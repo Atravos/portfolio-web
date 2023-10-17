@@ -54,7 +54,7 @@ class Projects extends React.Component {
       Portfolio: {
         title: "Calorie Calculator",
         desc:
-          "Indulge in sweet treats without the guilt! Doughnut Daily is not your ordinary calorie calculator. ",
+          "Indulge in sweet treats without the guilt! Calorie Calculator is not your ordinary health fitness app. ",
         techStack: "Java, NODE.JS (EXPRESS.JS)",
         link: "https://github.com/Atravos/donutCalculator",
         open: "https://github.com/Atravos/Lab4Assignments",
