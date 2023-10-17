@@ -90,7 +90,7 @@ class Projects extends React.Component {
         link: "https://github.com/Atravos/Lab4Assignments",
         open: ""
       },
-      "Game Centre": {
+      "Game Center": {
         desc:
           "Unwind with a collection of curated games ranging from brain-teasing puzzles to adrenaline-packed action adventures.",
         techStack: "Java, Android Studio",
