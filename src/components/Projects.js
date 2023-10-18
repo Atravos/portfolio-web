@@ -29,17 +29,17 @@ class Projects extends React.Component {
         desc:
           "Journey to a rugged frontier town nestled amidst the arid canyons, where danger lurks in every shadow and trust is a scarce commodity.",
         techStack: "C# (UNITY)",
-        link: "https://github.com/Atravos/Lab4Assignments",
-        open: "https://github.com/Atravos/Lab4Assignments",
+        link: "https://github.com/Atravos/WestPunk",
+        open: "https://github.com/Atravos/WestPunk",
         image: "/assets/WildWest.jpg"
       },
-      Havoc: {
+      Havok: {
         title: "Desert Drifters",
         desc:
           "In the vast expanse of the sun-drenched desert, chaos reigns supreme.",
         techStack: "C# (UNITY), JAVASCRIPT (THREE.JS)",
         link: "https://github.com/Atravos/DesertDrifters",
-        open: "https://github.com/Atravos/Lab4Assignments",
+        open: "https://github.com/Atravos/DesertDrifters",
         image: "/assets/DesertDrifters.jpg"
       },
       "The Man with No Name": {
@@ -48,7 +48,7 @@ class Projects extends React.Component {
           "The Man with No Name plunges players into a rich text-based narrative full of intrigue, danger, and unexpected twists.",
         techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
         link: "https://github.com/Atravos/TheManwithNoName",
-        open: "https://github.com/Atravos/Lab4Assignments",
+        open: "https://github.com/Atravos/TheManwithNoName",
         image: "/assets/TheManwithNoName.jpg"
       },
       Portfolio: {
@@ -57,7 +57,7 @@ class Projects extends React.Component {
           "Indulge in sweet treats without the guilt! Calorie Calculator is not your ordinary health fitness app. ",
         techStack: "Java, NODE.JS (EXPRESS.JS)",
         link: "https://github.com/Atravos/donutCalculator",
-        open: "https://github.com/Atravos/Lab4Assignments",
+        open: "https://github.com/Atravos/TheManwithNoName",
         image: "/assets/darkreader.png"
       }
     };
@@ -74,7 +74,7 @@ class Projects extends React.Component {
           "Meet Jarvis, your personalized AI assistant.",
         techStack: "Javascript, HTML / CSS",
         link: "https://github.com/Atravos/Lab4Assignments",
-        open: "https://github.com/Atravos/Lab4Assignments"
+        open: "https://github.com/Atravos/TheManwithNoName"
       },
       "Memory Allocation Logger and Tester": {
         desc:
