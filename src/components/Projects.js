@@ -73,7 +73,7 @@ class Projects extends React.Component {
         desc:
           "Meet Jarvis, your personalized AI assistant.",
         techStack: "Javascript, HTML / CSS",
-        link: "https://github.com/Atravos/Lab4Assignments",
+        link: "https://github.com/Atravos/Jarvis",
         open: "https://github.com/Atravos/TheManwithNoName"
       },
       "Memory Allocation Logger and Tester": {
@@ -81,7 +81,7 @@ class Projects extends React.Component {
           "Ensure your applications run smoothly with a state-of-the-art memory management tool. ",
         techStack: "Node.js (Express.js), React.js, PostgreSQL",
         link:
-          "https://github.com/Atravos/Lab4Assignments"
+          "https://github.com/Atravos/MemoryLoggerTester"
       },
       "Odin Discord Bot": {
         desc:
@@ -94,14 +94,14 @@ class Projects extends React.Component {
         desc:
           "Unwind with a collection of curated games ranging from brain-teasing puzzles to adrenaline-packed action adventures.",
         techStack: "Java, Android Studio",
-        link: "https://github.com/Atravos/Lab4Assignments",
+        link: "https://github.com/Atravos/GameCenter",
         open: ""
       },
       "To-Do Notetaking App": {
         desc:
           "Master the art of marketing with a comprehensive organizer designed for entrepreneurs and marketing professionals",
         techStack: "Python, Node.js, MONGODB",
-        link: "https://github.com/Atravos/Lab4Assignments",
+        link: "https://github.com/Atravos/DiscordBot",
         open: ""
       }
     };
