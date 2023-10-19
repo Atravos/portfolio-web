@@ -33,7 +33,7 @@ class Projects extends React.Component {
         open: "https://github.com/Atravos/WestPunk",
         image: "/assets/WildWest.jpg"
       },
-      Havok: {
+      "Desert Drifters": {
         title: "Desert Drifters",
         desc:
           "In the vast expanse of the sun-drenched desert, chaos reigns supreme.",
@@ -46,7 +46,7 @@ class Projects extends React.Component {
         title: "The Man with No Name",
         desc:
           "The Man with No Name plunges players into a rich text-based narrative full of intrigue, danger, and unexpected twists.",
-        techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
+        techStack: "Java (Netbeans), MONGODB",
         link: "https://github.com/Atravos/TheManwithNoName",
         open: "https://github.com/Atravos/TheManwithNoName",
         image: "/assets/TheManwithNoName.jpg"
@@ -55,7 +55,7 @@ class Projects extends React.Component {
         title: "Calorie Calculator",
         desc:
           "Indulge in sweet treats without the guilt! Calorie Calculator is not your ordinary health fitness app. ",
-        techStack: "Java, NODE.JS (EXPRESS.JS)",
+        techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
         link: "https://github.com/Atravos/donutCalculator",
         open: "https://github.com/Atravos/TheManwithNoName",
         image: "/assets/darkreader.png"
