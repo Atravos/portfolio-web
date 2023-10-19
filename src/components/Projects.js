@@ -54,7 +54,7 @@ class Projects extends React.Component {
       Portfolio: {
         title: "Calorie Calculator",
         desc:
-          "Indulge in sweet treats without the guilt! Calorie Calculator is not your ordinary health fitness app. ",
+          "Indulge in sweet treats without the guilt! Calorie Calculator is not your ordinary health fitness app.",
         techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
         link: "https://github.com/Atravos/donutCalculator",
         open: "https://github.com/Atravos/TheManwithNoName",
@@ -99,7 +99,7 @@ class Projects extends React.Component {
       },
       "To-Do Notetaking App": {
         desc:
-          "Master the art of creativity with a comprehensive organizer designed for those who believe the pen is mightier than the sword",
+          "Master the art of creativity with a comprehensive organizer designed for those who believe the pen is mightier than the sword.",
         techStack: "Python, Node.js, MONGODB",
         link: "https://github.com/Atravos/DiscordBot",
         open: ""
