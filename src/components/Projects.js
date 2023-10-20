@@ -57,7 +57,7 @@ class Projects extends React.Component {
           "Indulge in sweet treats without the guilt! Calorie Calculator is not your ordinary health fitness app.",
         techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
         link: "https://github.com/Atravos/donutCalculator",
-        open: "https://github.com/Atravos/TheManwithNoName",
+        open: "https://github.com/Atravos/donutCalculator",
         image: "/assets/darkreader.png"
       }
     };
@@ -74,7 +74,7 @@ class Projects extends React.Component {
           "Meet Jarvis, your personalized AI assistant.",
         techStack: "Javascript, HTML / CSS",
         link: "https://github.com/Atravos/Jarvis",
-        open: "https://github.com/Atravos/TheManwithNoName"
+        open: "https://github.com/Atravos/Jarvis"
       },
       "Memory Allocation Logger and Tester": {
         desc:
@@ -87,7 +87,7 @@ class Projects extends React.Component {
         desc:
           "Elevate your Discord experience with Odin, a versatile bot offering moderation tools, entertainment commands, and integration capabilities.",
         techStack: "Javascript, Node.js, Natural NLP, Discord API",
-        link: "https://github.com/Atravos/Lab4Assignments",
+        link: "https://github.com/Atravos/DiscordBot",
         open: ""
       },
       "Game Center": {
