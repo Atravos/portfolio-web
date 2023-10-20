@@ -66,8 +66,8 @@ class Projects extends React.Component {
         desc:
           "Unlock the secrets of numbers with an intuitive yet sophisticated calculator.",
         techStack: "Python (Flask), Vue.js, Bootstrap, SQL",
-        link: "https://github.com/Atravos/Lab4Assignments",
-        open: "https://github.com/Atravos/Lab4Assignments"
+        link: "https://github.com/Atravos/AdvancedCalculator",
+        open: "https://github.com/Atravos/AdvancedCalculator"
       },
       "Jarvis A.I.": {
         desc:
