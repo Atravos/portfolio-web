@@ -51,7 +51,7 @@ class Projects extends React.Component {
         open: "https://github.com/Atravos/TheManwithNoName",
         image: "/assets/TheManwithNoName.jpg"
       },
-      Portfolio: {
+      "Calorie Caclculator": {
         title: "Calorie Calculator",
         desc:
           "Indulge in sweet treats without the guilt! Calorie Calculator is not your ordinary health fitness app.",
