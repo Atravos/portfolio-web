@@ -91,7 +91,7 @@ const JobList = () => {
         "Build distributed pipelines, automated tests, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use."
       ]
     },
-    "Watco Companies LLC": {
+    Watco: {
       jobTitle: "Software Development Engineer @",
       duration: "MAY 2022 - MAY 2023",
       desc: [
