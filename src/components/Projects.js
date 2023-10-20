@@ -101,7 +101,7 @@ class Projects extends React.Component {
         desc:
           "Master the art of creativity with a comprehensive organizer designed for those who believe the pen is mightier than the sword.",
         techStack: "Python, Node.js, MONGODB",
-        link: "https://github.com/Atravos/DiscordBot",
+        link: "https://github.com/Atravos/Notepad",
         open: ""
       }
     };
