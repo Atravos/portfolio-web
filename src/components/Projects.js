@@ -36,7 +36,7 @@ class Projects extends React.Component {
       "Desert Drifters": {
         title: "Desert Drifters",
         desc:
-          "In the vast expanse of the sun-drenched desert, chaos reigns supreme.",
+          "In the vast expanse of the sun-drenched desert, chaos reigns the winner",
         techStack: "C# (UNITY), JAVASCRIPT (THREE.JS)",
         link: "https://github.com/Atravos/DesertDrifters",
         open: "https://github.com/Atravos/DesertDrifters",
