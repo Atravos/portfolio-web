@@ -92,7 +92,7 @@ class Projects extends React.Component {
       },
       "Game Center": {
         desc:
-          "Unwind with a collection of curated games ranging from brain-teasing puzzles to adrenaline-packed action adventures.",
+          "Unwind with an assortment of curated games ranging from brain-teasing puzzles to adrenaline-packed action adventures.",
         techStack: "Java, Android Studio",
         link: "https://github.com/Atravos/GameCenter",
         open: ""
