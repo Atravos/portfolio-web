@@ -36,7 +36,7 @@ class Projects extends React.Component {
       "Desert Drifters": {
         title: "Desert Drifters",
         desc:
-          "In the vast expanse of the sun-drenched desert, chaos reigns the winner",
+          "In the vast expanse of the sun-drenched desert, chaos reigns supreme",
         techStack: "C# (UNITY), JAVASCRIPT (THREE.JS)",
         link: "https://github.com/Atravos/DesertDrifters",
         open: "https://github.com/Atravos/DesertDrifters",
@@ -99,7 +99,7 @@ class Projects extends React.Component {
       },
       "To-Do Notetaking App": {
         desc:
-          "Master the art of creativity with a comprehensive notepad designed for those who believe the pen is mightier than the sword.",
+          "Master the art of creativity with a comprehensive to-do notepad designed for those who believe the pen is mightier than the sword.",
         techStack: "Python, Node.js, MONGODB",
         link: "https://github.com/Atravos/Notepad",
         open: ""
