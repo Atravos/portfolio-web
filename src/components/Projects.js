@@ -99,7 +99,7 @@ class Projects extends React.Component {
       },
       "To-Do Notetaking App": {
         desc:
-          "Master the art of creativity with a comprehensive to-do notepad designed for those who believe the pen is mightier than the sword.",
+          "Master the art of task making with a comprehensive to-do notepad designed for those who believe the pen is mightier than the sword.",
         techStack: "Python, Node.js, MONGODB",
         link: "https://github.com/Atravos/Notepad",
         open: ""
