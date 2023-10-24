@@ -130,7 +130,7 @@ const JobList = () => {
       desc: [
         "Processed impending orders with a 3-person team, fixing over 800 yearly PC Machines.",
         "Provided adequate customer service towards customers in a timely manner and with utmost professionalism.",
-        "Imaged and provisioned machines through autopilot, leveraging PowerShell."
+        "Developed a custom image and used Autopilot to provision machines, leveraging Powershell"
       ]
     }
   };

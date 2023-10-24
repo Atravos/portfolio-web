@@ -83,7 +83,7 @@ class Projects extends React.Component {
         link:
           "https://github.com/Atravos/MemoryLoggerTester"
       },
-      "Odin Discord Bot": {
+      "Apollo Discord Bot": {
         desc:
           "Elevate your Discord experience with Odin, a versatile bot, entertainment commands, and integration capabilities.",
         techStack: "Javascript, Node.js, Natural NLP, Discord API",
