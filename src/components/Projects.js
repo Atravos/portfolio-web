@@ -85,7 +85,7 @@ class Projects extends React.Component {
       },
       "Odin Discord Bot": {
         desc:
-          "Elevate your Discord experience with Odin, a versatile bot entertainment commands, and integration capabilities.",
+          "Elevate your Discord experience with Odin, a versatile bot, entertainment commands, and integration capabilities.",
         techStack: "Javascript, Node.js, Natural NLP, Discord API",
         link: "https://github.com/Atravos/DiscordBot",
         open: ""
