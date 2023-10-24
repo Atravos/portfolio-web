@@ -104,9 +104,9 @@ const JobList = () => {
       jobTitle: "Software Engineer Intern @",
       duration: "JUN 2021 - MAY 2022",
       desc: [
-        "Set up front to back-end software for imaging and automating the setup and initialization of machine.",
-        "Collaborated with senior developers on creating and initializing apps and software for consumer usage.",
-        "Evaluated and utilized over 70+ websites for security prevention and data recognition for company website."
+        "Implemented end-to-end software solutions for automating machine imaging and initialization.",
+        "Partnered with senior developers to design and launch consumer-focused apps and software.",
+        "Assessed and integrated security measures from 70+ websites to enhance our company's website protection and data recognition."
       ]
     },
     // Centivizer: {
@@ -128,8 +128,8 @@ const JobList = () => {
       jobTitle: "IT Support Specialist @",
       duration: "APR 2019 - AUG 2020",
       desc: [
-        "Processed impending orders with a 3-person team, fixing over 800 yearly PC Machines.",
-        "Provided adequate customer service towards customers in a timely manner and with utmost professionalism.",
+        "Collaborated with a 3-person team to process and repair over 800 PCs annually.",
+        "Delivered prompt and professional customer service to meet client needs.",
         "Developed a custom image and used Autopilot to provision machines, leveraging Powershell."
       ]
     }
