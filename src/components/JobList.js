@@ -87,7 +87,7 @@ const JobList = () => {
       duration: "JUN 2023 - PRESENT",
       desc: [
         "Collaborate with experienced cross-disciplinary PSSI employees to conceive, design, and bring innovative products and services to market.",
-        "Design and build innovative technologies in a large distributed computing environment and help lead fundamental changes in the industry.",
+        "Design and build innovative technologies in a large distributed computing environment and help lead fundamental changes.",
         "Build distributed pipelines, automated tests, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use."
       ]
     },
