@@ -28,7 +28,7 @@ class Projects extends React.Component {
         title: "West Punk",
         desc:
           "Journey to a rugged frontier town nestled amidst the arid canyons, where danger lurks in every shadow and trust is a scarce commodity.",
-        techStack: "C# (UNITY)",
+        techStack: "C# (Unity)",
         link: "https://github.com/Atravos/WestPunk",
         open: "https://github.com/Atravos/WestPunk",
         image: "/assets/WildWest.jpg"
@@ -37,7 +37,7 @@ class Projects extends React.Component {
         title: "Desert Drifters",
         desc:
           "In the vast expanse of the sun-drenched desert, chaos reigns supreme",
-        techStack: "C# (UNITY), JAVASCRIPT (THREE.JS)",
+        techStack: "C# (Unity), Javascript (Three.JS)",
         link: "https://github.com/Atravos/DesertDrifters",
         open: "https://github.com/Atravos/DesertDrifters",
         image: "/assets/DesertDrifters.jpg"
@@ -46,7 +46,7 @@ class Projects extends React.Component {
         title: "The Man with No Name",
         desc:
           "The Man with No Name plunges players into a rich text-based narrative full of intrigue, danger, and unexpected twists.",
-        techStack: "Java (Netbeans), MONGODB",
+        techStack: "Java (Netbeans), MongodDB",
         link: "https://github.com/Atravos/TheManwithNoName",
         open: "https://github.com/Atravos/TheManwithNoName",
         image: "/assets/TheManwithNoName.jpg"
@@ -55,7 +55,7 @@ class Projects extends React.Component {
         title: "Calorie Calculator",
         desc:
           "Indulge in sweet treats without the guilt! Calorie Calculator is not your ordinary health fitness app.",
-        techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
+        techStack: "Node.Js (Socket.io), React.Js, MongoDB",
         link: "https://github.com/Atravos/donutCalculator",
         open: "https://github.com/Atravos/donutCalculator",
         image: "/assets/darkreader.png"
@@ -65,7 +65,7 @@ class Projects extends React.Component {
       "Advanced Mathematical Calculator": {
         desc:
           "Unlock the secrets of numbers with an intuitive yet sophisticated calculator.",
-        techStack: "Python (Flask), Vue.js, Bootstrap, SQL",
+        techStack: "PYTHON (FLASK), VUE.JS, BOOTSTRAP, SQL",
         link: "https://github.com/Atravos/AdvancedCalculator",
         open: "https://github.com/Atravos/AdvancedCalculator"
       },
