@@ -35,11 +35,9 @@ class Intro extends React.Component {
         <FadeInSection>
           <div className="intro-subtitle">I create stuff sometimes.</div>
           <div className="intro-desc">
-            
-
-            I'm a full-stack software engineer based in Little Rock, Arkansas. I'm fascinated by
-            intuitive software and artifical intelligence. I have contributed
-            to leading services and shipped standalone products.
+            I'm a software engineer and artist based in Arkansas. I have great
+            interest in full-stack development, artificial intelligence,
+            human-computer interactions, and everything in between.
           </div>
           <a
             href="mailto:reese.h.walker@gmail.com"
@@ -53,5 +51,9 @@ class Intro extends React.Component {
     );
   }
 }
+
+//I'm a full-stack software engineer based in Little Rock, Arkansas. I'm fascinated by
+//intuitive software and artifical intelligence. I have contributed
+//to leading services and shipped standalone products.
 
 export default Intro;
