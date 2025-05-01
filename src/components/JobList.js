@@ -80,15 +80,15 @@ const useStyles = makeStyles(theme => ({
 const JobList = () => {
   const classes = useStyles();
   const [value, setValue] = React.useState(0);
-
+  
   const experienceItems = {
     PSSI: {
       jobTitle: "Software Development Engineer @",
       duration: "JUN 2023 - PRESENT",
       desc: [
-        "Collaborate with experienced cross-disciplinary PSSI employees to conceive, design, and bring innovative products and services to market.",
-        "Design and build innovative technologies in a large distributed computing environment and help lead fundamental changes.",
-        "Build distributed pipelines, automated tests, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use."
+        "Containerized microservices, reducing deployment time by 78% and achieving zero-downtime deployments.",
+        "Engineered a scalable alert management system using Azure Cosmos DB and Blob Storage, enabling real-time data processing.",
+        "Developed a modular UI component library, decreasing bundle size by 42% while improving rendering performance by 35%."
       ]
     },
     Watco: {
@@ -104,9 +104,9 @@ const JobList = () => {
       jobTitle: "Software Engineer Intern @",
       duration: "JUN 2021 - MAY 2022",
       desc: [
-        "Implemented end-to-end software solutions for automating machine imaging and initialization.",
-        "Partnered with senior developers to design and launch consumer-focused apps and software.",
-        "Assessed and integrated security measures from 70+ websites to enhance our company's website protection and data recognition."
+        "Implemented end-to-end software solutions for automating machine imaging and initialization, reducing deployment time by 45%.",
+        "Partnered with senior developers to design and launch 4 consumer-focused applications from concept to production.",
+        "Integrated security measures from 70+ websites, strengthening the company's data protection and recognition capabilities."
       ]
     },
     // Centivizer: {
@@ -121,16 +121,16 @@ const JobList = () => {
     //   jobTitle: "Software Engineer @",
     //   duration: "SEPT 2019 - DEC 2020",
     //   desc: [
-    //     "Co-developed homework management software integrable with Google Classroom by utilizing the Python’s Flask micro-framework for the back-end API and Vue.js for the front-end UI, in order to translate business requirements into a functional full-stack application."
+    //     "Co-developed homework management software integrable with Google Classroom by utilizing the Python's Flask micro-framework for the back-end API and Vue.js for the front-end UI, in order to translate business requirements into a functional full-stack application."
     //   ]
     // },
     "Neosho College": {
       jobTitle: "IT Support Specialist @",
       duration: "APR 2019 - AUG 2020",
       desc: [
-        "Collaborated with a 3-person team to process and repair over 800 PCs annually.",
-        "Delivered prompt and professional customer service to meet client needs.",
-        "Developed a custom image and used Autopilot to provision machines, leveraging Powershell."
+        "Collaborated with a 3-person team to process and repair over 800 PCs annually, ensuring minimal downtime for faculty and students.",
+        "Resolved network vulnerabilities, strengthening system security and safeguarding data for 3,500 students.",
+        "Developed custom imaging and provisioning solution using Azure and PowerShell, reducing machine setup time by 42%."
       ]
     }
   };
