@@ -28,7 +28,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build && rm -rf docs && cp -r build docs",
+    "predeploy": "npm run build && rm -rf docs && cp -r build docs && echo 'atravos.com' > docs/CNAME",
     "deploy": "git add docs && git commit -m 'Update docs' && git push"
   },
   "eslintConfig": {
