@@ -19,16 +19,14 @@
 2. Start the development server
 
    ```sh
-   npm run start
+   npm start
    ```
 
 ## 🚀 For production
 
 
    ```sh
-   npm run build
-   rm -rf docs
-   mv build docs
+   npm run deploy
    ```
 
 
