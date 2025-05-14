@@ -67,12 +67,12 @@ class Projects extends React.Component {
         link: "https://github.com/Atravos/AdvancedCalculator",
         open: "https://github.com/Atravos/AdvancedCalculator"
       },
-      "Jarvis A.I.": {
+      "Neat Note": {
         desc:
-          "Meet Jarvis, your personalized AI assistant.",
-        techStack: "Javascript, HTML / CSS",
-        link: "https://github.com/Atravos/Jarvis",
-        open: "https://github.com/Atravos/Jarvis"
+          "Electron-based note-taking software featuring nested folders and files, Markdown support, drag-and-drop functionality, and customizable themes.",
+        techStack: "Javascript, HTML / CSS, Electron",
+        link: "https://github.com/Atravos/neatnote",
+        open: "https://theneatnote.com"
       },
       "Memory Allocation Logger and Tester": {
         desc:
@@ -95,11 +95,11 @@ class Projects extends React.Component {
         link: "https://github.com/Atravos/GameCenter",
         open: ""
       },
-      "To-Do Notetaking App": {
+      "Alpha Logic": {
         desc:
-          "Master the art of task making with a comprehensive to-do notepad designed for those who believe the pen is mightier than the sword.",
-        techStack: "Python, Node.js, MONGODB",
-        link: "https://github.com/Atravos/Notepad",
+          "Multi-algorithm strategic game environment with comparative artificial intelligence performance visualization.",
+        techStack: "Python, Pygame, Matplotlib, NumPy",
+        link: "https://github.com/Atravos/AlphaLogic",
         open: ""
       }
     };

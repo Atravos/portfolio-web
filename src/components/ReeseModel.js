@@ -33,7 +33,7 @@ class ThreeJSAnimation extends Component {
         });
         renderer.shadowMap.enabled = true;
         renderer.setSize(0.35 * window.innerWidth, 0.35 * window.innerHeight);
-        var container = document.getElementById("gazi-model");
+        var container = document.getElementById("reese-model");
         container.appendChild(renderer.domElement);
 
         // Add a camera
