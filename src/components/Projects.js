@@ -31,14 +31,14 @@ class Projects extends React.Component {
         open: "https://github.com/Atravos/WestPunk",
         image: "/assets/WildWest.jpg"
       },
-      "Desert Drifters": {
-        title: "Desert Drifters",
+      "Story Weave": {
+        title: "Story Weave",
         desc:
-          "In the vast expanse of the sun-drenched desert, chaos reigns supreme",
-        techStack: "C# (Unity), Javascript (Three.JS)",
-        link: "https://github.com/Atravos/DesertDrifters",
-        open: "https://github.com/Atravos/DesertDrifters",
-        image: "/assets/DesertDrifters.jpg"
+          "A multi-player collaborative storytelling platform for 2-8 players. Its implementation of real-time communication allows turn-based narrative creation, connecting writers across the internet.",
+        techStack: "Node.Js (Socket.io), React.Js, MongoDB",
+        link: "https://github.com/Atravos/StoryWeave",
+        open: "https://github.com/Atravos/StoryWeave",
+        image: "/assets/StoryWeaveImage.png"
       },
       "The Man with No Name": {
         title: "The Man with No Name",
@@ -53,10 +53,10 @@ class Projects extends React.Component {
         title: "Calorie Calculator",
         desc:
           "Indulge in sweet treats without the guilt! Calorie Calculator is not your ordinary health fitness app.",
-        techStack: "Node.Js (Socket.io), React.Js, MongoDB",
+        techStack: "Java",
         link: "https://github.com/Atravos/donutCalculator",
         open: "https://github.com/Atravos/donutCalculator",
-        image: "/assets/darkreader.png"
+        image: "/assets/CalorieCounter.png"
       }
     };
     const projects = {
