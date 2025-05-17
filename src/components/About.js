@@ -20,7 +20,7 @@ class About extends React.Component {
     const one = (
       <p>
         I am currently a <b>Software Development Engineer</b> at
-        <a href="https://www.pssi.com/solution/marc/"> PSSI</a>, working in the DevOps
+        <a href="https://www.fortrexsolutions.com/solution/marc/"> PSSI</a>, working in the DevOps
         sector under team MARC. At the same time, I am undertaking a
         part-time <b> Master's of Science</b> in <b>Software Engineering </b>at{" "}
         <a href="https://www.pittstate.edu/index.html">University of Pitt State</a>.

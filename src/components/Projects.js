@@ -22,38 +22,38 @@ class Projects extends React.Component {
   }
   render() {
     const spotlightProjects = {
-      "West Punk": {
-        title: "West Punk",
+      "west punk": {
+        title: "west punk",
         desc:
           "Journey to a rugged frontier town nestled amidst the arid canyons, where danger lurks in every shadow and trust is a scarce commodity.",
-        techStack: "C# (Unity)",
+        techStack: "C# (UNITY)",
         link: "https://github.com/Atravos/WestPunk",
         open: "https://github.com/Atravos/WestPunk",
         image: "/assets/WildWest.jpg"
       },
-      "Story Weave": {
-        title: "Story Weave",
+      "story weave": {
+        title: "story weave",
         desc:
-          "A multi-player collaborative storytelling platform for 2-8 players. Its implementation of real-time communication allows turn-based narrative creation, connecting writers across the internet.",
-        techStack: "Node.Js (Socket.io), React.Js, MongoDB",
+          "A multi-player story-telling web game for 2-8 players. Its usage of sockets enables turn-based narrative creation, connecting writers across the internet.",
+        techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
         link: "https://github.com/Atravos/StoryWeave",
         open: "https://github.com/Atravos/StoryWeave",
         image: "/assets/StoryWeaveImage.png"
       },
-      "The Man with No Name": {
-        title: "The Man with No Name",
+      "the man with no name": {
+        title: "the man with no name",
         desc:
           "The Man with No Name plunges players into a rich text-based narrative full of intrigue, danger, and unexpected twists.",
-        techStack: "Java (Netbeans), MongodDB",
+        techStack: "JAVA (NETBEANS), MONGODB",
         link: "https://github.com/Atravos/TheManwithNoName",
         open: "https://github.com/Atravos/TheManwithNoName",
         image: "/assets/TheManwithNoName.jpg"
       },
-      "Calorie Caclculator": {
-        title: "Calorie Calculator",
+      "calorie calculator": {
+        title: "calorie calculator",
         desc:
           "Indulge in sweet treats without the guilt! Calorie Calculator is not your ordinary health fitness app.",
-        techStack: "Java",
+        techStack: "JAVA",
         link: "https://github.com/Atravos/donutCalculator",
         open: "https://github.com/Atravos/donutCalculator",
         image: "/assets/CalorieCounter.png"
@@ -63,14 +63,14 @@ class Projects extends React.Component {
       "Advanced Mathematical Calculator": {
         desc:
           "Unlock the secrets of numbers with an intuitive yet sophisticated calculator.",
-        techStack: "PYTHON (FLASK), VUE.JS, BOOTSTRAP, SQL",
+        techStack: "Python (Flask), Vue.js, Bootstrap, SQL",
         link: "https://github.com/Atravos/AdvancedCalculator",
         open: "https://github.com/Atravos/AdvancedCalculator"
       },
       "Neat Note": {
         desc:
           "Electron-based note-taking software featuring nested folders and files, Markdown support, drag-and-drop functionality, and customizable themes.",
-        techStack: "Javascript, HTML / CSS, Electron",
+        techStack: "Javascript, Electron, HTML / CSS",
         link: "https://github.com/Atravos/neatnote",
         open: "https://theneatnote.com"
       },
