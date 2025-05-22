@@ -49,14 +49,14 @@ class Projects extends React.Component {
         open: "https://github.com/Atravos/TheManwithNoName",
         image: "/assets/TheManwithNoName.jpg"
       },
-      "calorie calculator": {
-        title: "calorie calculator",
+      "dev dashboard": {
+        title: "dev dashboard",
         desc:
-          "Indulge in sweet treats without the guilt! Calorie Calculator is not your ordinary health fitness app.",
-        techStack: "JAVA",
-        link: "https://github.com/Atravos/donutCalculator",
-        open: "https://github.com/Atravos/donutCalculator",
-        image: "/assets/CalorieCounter.png"
+          "A small JS library for visualizing developer productivity metrics with customizable themes.",
+        techStack: "NODE.JS (EXPRESS.JS)",
+        link: "https://github.com/Atravos/DevDashboard",
+        open: "https://github.com/Atravos/DevDashboard",
+        image: "/assets/DevDashboard.png"
       }
     };
     const projects = {
