@@ -55,7 +55,7 @@ class Projects extends React.Component {
           "A small JS library for visualizing developer productivity metrics with customizable themes.",
         techStack: "NODE.JS (EXPRESS.JS)",
         link: "https://github.com/Atravos/DevDashboard",
-        open: "https://github.com/Atravos/DevDashboard",
+        open: "https://dev-dashboard-g6fdhu9rd-atravos-projects.vercel.app/",
         image: "/assets/DevDashboard.png"
       }
     };
