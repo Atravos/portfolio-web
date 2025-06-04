@@ -37,7 +37,7 @@ class Projects extends React.Component {
           "A multi-player story-telling web game for 2-8 players. Its usage of sockets enables turn-based narrative creation, connecting writers across the internet.",
         techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
         link: "https://github.com/Atravos/StoryWeave",
-        open: "https://github.com/Atravos/StoryWeave",
+        open: "https://story-weave-two.vercel.app/",
         image: "/assets/StoryWeaveImage.png"
       },
       "the man with no name": {
